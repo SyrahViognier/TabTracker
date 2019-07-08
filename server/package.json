@@ -16,7 +16,9 @@
     "eslint": "^6.0.1",
     "express": "^4.17.1",
     "morgan": "^1.9.1",
-    "nodemon": "^1.19.1"
+    "nodemon": "^1.19.1",
+    "sequelize": "^5.9.4",
+    "sqlite3": "^4.0.9"
   },
   "devDependencies": {
     "@methodgrab/eslint-config-standard": "^0.10.0",
